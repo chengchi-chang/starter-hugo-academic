@@ -1,52 +1,25 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Cheng-Chi (Kirin) Chang
+role: J.D. candidate at the University of Florida Levin College of Law
+bio: My research interests include Technology Law, Intellectual Property Law and
+  Privacy Law matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Technology Law
+  - Intellectual Property Law
+  - Information Law
+  - Privacy Law
+  - Cyber Law
+  - Taiwan Law
+  - U.S. Law
+  - International Law
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: https://twitter.com/chengchi_chang
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
@@ -54,24 +27,29 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/chengchichang/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: Doctor of Law (J.D.)
+      institution: University of Florida Levin College of Law
+      year: 2024
+    - course: Master of Laws (LL.M.)
+      institution: University of Arizona James E. Rogers College of Law
+      year: 2022
+    - course: Bachelor of Laws (LL.B.)
+      institution: National Chung Hsing University
+      year: 2021
+email: ""
+superuser: true
 highlight_name: true
 ---
+Kirin (Cheng-Chi) Chang is currently a J.D. candidate at the University of Florida Levin College of Law. He holds an LL.M. degree from the University of Arizona James E. Rogers College of Law and an LL.B. degree from National Chung Hsing University in Taiwan.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+While in law school, Kirin worked as a Legal and Compliance Intern at Nestlé, Boehringer Ingelheim, and Volkswagen Group. He also spent a semester as an exchange student at Tsinghua University School of Law in Beijing, China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kirin enjoys watching YouTube videos and building websites, but he can also spend hours on the badminton court or on a weekend bike trip. Kirin is a big fan of vanilla and cookies & cream flavored ice cream!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
