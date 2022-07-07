@@ -8,7 +8,7 @@ en:
   contentDir: content/en
 zh:
   languageCode: zh-TW
-  contentDir: content/zh
+  contentDir: content/zh-TW
   title: Academic
   params:
     description: Site description in Chinese...
