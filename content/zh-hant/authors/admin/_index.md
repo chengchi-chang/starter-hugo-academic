@@ -1,6 +1,6 @@
 ---
-title: Cheng-Chi (Kirin) Chang
-role: J.D. candidate
+title: 張正麒
+role: 法律博士候選人
 avatar_filename: 5x5美簽-grey-.jpg
 bio: My research interests include Technology Law, Intellectual Property Law and
   Privacy Law matter.
@@ -27,18 +27,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chengchichang/
 organizations:
-  - name: University of Florida Levin College of Law
+  - name: 美國佛羅里達大學法學院
     url: https://www.law.ufl.edu/
 education:
   courses:
-    - course: Doctor of Law (J.D.)
-      institution: University of Florida Levin College of Law
+    - course: 法律博士
+      institution: 美國佛羅里達大學法學院
       year: 2024
-    - course: Master of Laws (LL.M.)
-      institution: University of Arizona James E. Rogers College of Law
+      icon: twitter
+      icon_pack: fab
+    - course: 法學碩士
+      institution: 美國亞利桑那大學法學院
       year: 2022
-    - course: Bachelor of Laws (LL.B.)
-      institution: National Chung Hsing University
+    - course: 法學學士
+      institution: 國立中興大學
       year: 2021
 email: ""
 superuser: true
@@ -50,4 +52,4 @@ While in law school, Kirin worked as a Legal and Compliance Intern at Nestlé, B
 
 Kirin enjoys watching YouTube videos and building websites, but he can also spend hours on the badminton court or on a weekend bike trip. Kirin is a big fan of vanilla and cookies & cream flavored ice cream!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下載我的 {{< staticref "uploads/demo_resume.pdf" "newtab" >}}履歷{{< /staticref >}}.
