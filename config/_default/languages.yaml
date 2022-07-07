@@ -9,6 +9,7 @@ en:
 zh-Hant-TW:
   languageCode: zh-Hant-TW
   contentDir: content/zh-Hant-TW
+  languageName: "繁體中文"
   title: 張正麒
   params:
     description: Site description in Chinese...
