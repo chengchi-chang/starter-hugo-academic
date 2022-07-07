@@ -50,13 +50,13 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 'Legal & Compliance Intern'
+    company: 'Nestlé'
     company_url: ''
-    company_logo: org-x
+    company_logo: nestle-5
     location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-10-01'
+    date_end: '2020-01-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
