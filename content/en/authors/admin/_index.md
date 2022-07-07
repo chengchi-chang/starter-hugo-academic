@@ -50,4 +50,4 @@ While in law school, Kirin worked as a Legal and Compliance Intern at Nestlé, B
 
 Kirin enjoys watching YouTube videos and building websites, but he can also spend hours on the badminton court or on a weekend bike trip. Kirin is a big fan of vanilla and cookies & cream flavored ice cream!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
