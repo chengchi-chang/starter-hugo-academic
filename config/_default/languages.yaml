@@ -6,9 +6,9 @@
 en:
   languageCode: en-us
   contentDir: content/en
-zh-Hant-TW:
-  languageCode: zh-Hant
-  contentDir: content/zh-Hant
+zh-hant:
+  languageCode: zh-hant
+  contentDir: content/zh-hant
   languageName: "繁體中文"
   title: 張正麒
   params:
