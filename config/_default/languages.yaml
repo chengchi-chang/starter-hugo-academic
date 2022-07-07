@@ -7,9 +7,9 @@ en:
   languageCode: en-us
   contentDir: content/en
 zh:
-  languageCode: zh-TW
-  contentDir: content/zh-TW
-  title: Academic
+  languageCode: zh_Hant_TW
+  contentDir: content/zh_Hant_TW
+  title: 張正麒
   params:
     description: Site description in Chinese...
   menu:
