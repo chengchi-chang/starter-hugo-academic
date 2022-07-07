@@ -36,6 +36,20 @@ experience:
         * Modelling
         * Deploying
 
+  - title: Legal & Compliance Intern
+    company: Volkswagen Group Taiwan
+    company_url: ''
+    company_logo: volkswagen-group
+    location: Taipei, Taiwan
+    date_start: '2019-12-01'
+    date_end: '2021-06-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
