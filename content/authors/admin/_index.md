@@ -1,6 +1,7 @@
 ---
 title: Cheng-Chi (Kirin) Chang
 role: J.D. candidate at the University of Florida Levin College of Law
+avatar_filename: 5x5美簽-grey-.jpg
 bio: My research interests include Technology Law, Intellectual Property Law and
   Privacy Law matter.
 interests:
@@ -29,8 +30,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/chengchichang/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Florida Levin College of Law
+    url: https://www.law.ufl.edu/
 education:
   courses:
     - course: Doctor of Law (J.D.)
