@@ -7,8 +7,8 @@ en:
   languageCode: en-us
   contentDir: content/en
 zh:
-  languageCode: zh_Hant_TW
-  contentDir: content/zh_Hant_TW
+  languageCode: zh-Hant-TW
+  contentDir: content/zh-Hant-TW
   title: 張正麒
   params:
     description: Site description in Chinese...
