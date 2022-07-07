@@ -1,6 +1,6 @@
 ---
 title: Cheng-Chi (Kirin) Chang
-role: J.D. candidate at the University of Florida Levin College of Law
+role: J.D. candidate
 avatar_filename: 5x5美簽-grey-.jpg
 bio: My research interests include Technology Law, Intellectual Property Law and
   Privacy Law matter.
@@ -23,9 +23,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chengchichang/
